@@ -1,7 +1,7 @@
 # PlainTextPlugin
  A very light weight Unreal Engine plugin that adds Load Txt and Save Txt blueprint functions.
 
-Built with UE 4.27.2
+Built with UE 4.27.2 on a 64-bit Windows 10 machine
 
 
 # Usage Instructions
